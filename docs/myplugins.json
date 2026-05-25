@@ -3,7 +3,7 @@
   "plugins": [
     {
       "name": "LinkQQ",
-      "url": "https://raw.githubusercontent.com/zouzho/musicfree-plugins/refs/heads/main/%E5%85%83%E5%8A%9BQQ.js",
+      "url": "https://musicfree.sapb.eu.org/qqmusic.js",
       "version": "1.0.0"
     },
     {
