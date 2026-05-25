@@ -1,13 +1,13 @@
 {
-  "desc": "MusicFree 插件订阅 - 80个插件",
+  "desc": "MusicFree 插件订阅 - 2个插件",
   "plugins": [
     {
-      "name": "元力QQ",
+      "name": "LinkQQ",
       "url": "https://raw.githubusercontent.com/zouzho/musicfree-plugins/refs/heads/main/%E5%85%83%E5%8A%9BQQ.js",
       "version": "1.0.0"
     },
     {
-      "name": "汽水Music VIP",
+      "name": "汽水Music",
       "url": "https://raw.githubusercontent.com/zouzho/musicfree-plugins/refs/heads/main/%E6%B1%BD%E6%B0%B4vip.js",
       "version": "2.2.0"
     }
