@@ -7,9 +7,9 @@
       "version": "1.0.0"
     },
     {
-      "name": "CCTV听音",
-      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/CCTV听音.js",
-      "version": "1.0.0"
+      "name": "汽水Music VIP",
+      "url": "https://raw.githubusercontent.com/zouzho/musicfree-plugins/refs/heads/main/%E6%B1%BD%E6%B0%B4vip.js",
+      "version": "2.2.0"
     }
   ]
 }
