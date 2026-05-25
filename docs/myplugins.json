@@ -1,0 +1,15 @@
+{
+  "desc": "MusicFree 插件订阅 - 80个插件",
+  "plugins": [
+    {
+      "name": "元力QQ",
+      "url": "https://raw.githubusercontent.com/zouzho/musicfree-plugins/refs/heads/main/%E5%85%83%E5%8A%9BQQ.js",
+      "version": "1.0.0"
+    },
+    {
+      "name": "CCTV听音",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/CCTV听音.js",
+      "version": "1.0.0"
+    }
+  ]
+}
