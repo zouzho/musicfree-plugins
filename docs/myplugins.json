@@ -27,6 +27,11 @@
       "version": "2.2.0"
     },
     {
+      "name": "LinkCCTV",
+      "url": "https://musicfree.sapb.eu.org/musiccctv.js",
+      "version": "2.2.0"
+    },
+    {
       "name": "LinkBilibili",
       "url": "https://musicfree.sapb.eu.org/bilibili.js",
       "version": "2.2.0"
