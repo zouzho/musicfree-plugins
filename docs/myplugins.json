@@ -12,6 +12,16 @@
       "version": "2.2.0"
     },
     {
+      "name": "LineKuWo",
+      "url": "https://musicfree.sapb.eu.org/KuWo.js",
+      "version": "2.2.0"
+    },
+    {
+      "name": "LineKuGou",
+      "url": "https://musicfree.sapb.eu.org/KuGou.js",
+      "version": "2.2.0"
+    },
+    {
       "name": "LineQiShui",
       "url": "https://musicfree.sapb.eu.org/开心汽水.js",
       "version": "2.2.0"
