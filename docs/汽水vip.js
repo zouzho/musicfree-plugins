@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const CONFIG = {
-    platform: "汽水 Vip",
+    platform: "汽水Vip",
     author: "简云",
     version: "2.2.0",
     srcUrl: "https://gitee.com/janyun/music-free-plugin/raw/master/qishui.vip.js",
